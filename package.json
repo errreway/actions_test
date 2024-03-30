@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anesta2601/actions_test/issues"
   },
-  "homepage": "https://github.com/Anesta2601/actions_test#readme"
+  "homepage": "https://github.com/Anesta2601/actions_test#readme",
+  "publishConfig": {
+    "anesta2601:registry": "https://npm.pkg.github.com"
+  }
 }
