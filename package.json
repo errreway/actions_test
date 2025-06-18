@@ -3,6 +3,7 @@
   "version": "3.0.0",
   "description": "",
   "main": "index.js",
+  11
   "scripts": {
     "test": "exit 0"
   },
